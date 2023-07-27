@@ -1,6 +1,8 @@
-# React + Vite
+# FlagReSize
 
 # Problemas pendientes:
+
+- Variables de entorno. URGENTE!
 
 - Conexión mediante axios a servidor, actualmente no puedo resolver un error "ERR_FAILED 403" y "GET http://localhost:3000/flags net::ERR_FAILED 404 (Not Found)".
   
@@ -8,7 +10,6 @@
 
 - renderizado de fotos y diseño para sección de descarga.
 
-- Variables de entorno. URGENTE!
 
 - 
 
