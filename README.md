@@ -1,8 +1,14 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Problemas pendientes:
 
-Currently, two official plugins are available:
+- Conexión mediante axios a servidor, actualmente no puedo resolver un error "ERR_FAILED 403" y "GET http://localhost:3000/flags net::ERR_FAILED 404 (Not Found)".
+  
+- Mejorar funciones para manipulación de fotos desde back.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- renderizado de fotos y diseño para sección de descarga.
+
+- Variables de entorno. URGENTE!
+
+- 
+
